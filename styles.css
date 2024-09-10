@@ -1,0 +1,9 @@
+* {
+    font-family: 'Kalnia Glaze', sans-serif;
+}
+.banner {
+    background-image: url(./client/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 240px 0;
+}
